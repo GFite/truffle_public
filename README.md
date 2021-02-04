@@ -1,2 +1,3 @@
 # truffle_public
-truffle
+truffle target repo for training purposes
+
